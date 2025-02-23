@@ -1,5 +1,5 @@
-<h1 align="center">Francisco Becerra<br>Embedded Systems Engineering Enthusiast</h1>
-<h4  align="center"><em><b>"I will never put my name on a product that does not have in it the best that is in me." – John Deere</b></h4>
+<h1 align="center">Francisco Becerra<br>Embedded Systems Enthusiast</h1>
+<h4  align="center"><em><b>"All our dreams can come true, if we have the courage to pursue them." – Walt Disney</b></h4>
 
 <!--
 ### About me
@@ -20,10 +20,10 @@ var francisco = new List<object>
 ```
 
 ###
-
+-->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FKBecerra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div> -->
+</div> 
 
 ###
 <h4 align="center">Current position</h4>
