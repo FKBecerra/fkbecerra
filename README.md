@@ -27,6 +27,6 @@ var francisco = new List<object>
 
 ###
 <h4 align="center">Current position</h4>
-<p align="center"><em>Maintenance Technician at <a href="https://www.joysonsafety.com"> @JoysonSafetySystems</a><br><br><img src="https://www.joysonsafety.com/assets/site/assets/jss-logo-head.svg" width="350"></em></p>
+<p align="center"><em>Robotic Systems Technician at <a href="https://www.joysonsafety.com"> @JoysonSafetySystems</a><br><br><img src="https://www.joysonsafety.com/assets/site/assets/jss-logo-head.svg" width="350"></em></p>
 
 <!--<img align='center' src="" width="230">-->
