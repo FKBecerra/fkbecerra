@@ -1,4 +1,5 @@
-<h1 align="center">Francisco Becerra<br>Embedded Systems Enthusiast</h1>
+<h1 align="center">Francisco Becerra<br>Mechatronics Engineer</h1>
+<h4 align="center">Majored in Electronics and Embedded Systems</h4>
 <h4  align="center"><em><b>"All our dreams can come true, if we have the courage to pursue them." – Walt Disney</b></h4>
 
 <!--
@@ -27,6 +28,6 @@ var francisco = new List<object>
 
 ###
 <h4 align="center">Current position</h4>
-<p align="center"><em>Robotic Systems Technician at <a href="https://www.joysonsafety.com"> @JoysonSafetySystems</a><br><br><img src="https://www.joysonsafety.com/assets/site/assets/jss-logo-head.svg" width="350"></em></p>
+<p align="center"><em>Electrical Engineering Technician - Product Support at <a href="https://www.milwaukeetool.com/"> @MilwaukeeElectricToolCorporation</a><br><br><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Milwaukee_Logo.svg" width="350"></em></p>
 
 <!--<img align='center' src="" width="230">-->
