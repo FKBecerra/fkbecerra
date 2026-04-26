@@ -28,6 +28,7 @@ var francisco = new List<object>
 
 ###
 <h4 align="center">Current position</h4>
-<p align="center"><em>Electrical Engineering Technician - Product Support at <a href="https://www.milwaukeetool.com/"> @MilwaukeeElectricToolCorporation</a><br><br><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Milwaukee_Logo.svg" width="350"></em></p>
+<p align="center"><em>Electrical Engineering - Product Engineering at <a href="https://www.milwaukeetool.com/"> @MilwaukeeElectricToolCorporation</a><br>
+<a href="https://www.milwaukeetool.com/"> <br><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Milwaukee_Logo.svg" width="350"></em></p>
 
 <!--<img align='center' src="" width="230">-->
